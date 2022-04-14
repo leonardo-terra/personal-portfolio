@@ -8,7 +8,6 @@ export default function App() {
       <Header />
       <div className="min-h-screen bg-fixed bg-cover bg-[url('./images/background-placeholder.webp')]" />
       <AboutMe />
-      <span>hello world!</span>
     </div>
   );
 }
