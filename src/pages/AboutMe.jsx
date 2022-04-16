@@ -11,7 +11,7 @@ export default function AboutMe() {
       </h3>
       <div className='flex justify-between'>
         <img
-          className='w-56 h-56 rounded-full '
+          className='w-56 h-56 rounded-full ml-28 mr-28'
           src={profileImage}
           alt='Leonardo Terra de Melo, autor da página'
         />
@@ -19,10 +19,14 @@ export default function AboutMe() {
           Estudante em desenvolvimento de software na Trybe. Em processo de
           aprendizado na área de tecnologia como desenvolvedor full stack.
           Atualmente aprendendo HTML, Javascript, CSS e React-Redux. Com o sonho
-          de me tornar um dev full stack Graduando em Engenharia Química na
-          UFRJ, com experiência empresarial em gerenciamento de projetos,
-          marketing e comercial. “Todos os nossos sonhos podem se tornar
-          realidade, se nós tivermos a coragem para persegui-los”. (Walt Disney)
+          de me tornar um dev full stack.
+          <br />
+          Graduando em Engenharia Química na UFRJ, com experiência empresarial
+          em gerenciamento de projetos, marketing e comercial.
+          <br />
+          <br />
+          “Todos os nossos sonhos podem se tornar realidade, se nós tivermos a
+          coragem para persegui-los”. (Walt Disney)
         </article>
       </div>
     </section>
