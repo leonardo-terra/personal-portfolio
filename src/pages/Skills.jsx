@@ -5,16 +5,18 @@ export default function Skills() {
     <section className='container flex justify-around mx-auto mt-5'>
       <article className='max-w-md pr-4 text-justify text-md'>
         <h3>Sobre mim:</h3>
-        Desenvolvedor Full stack em processo de criação. Atualmente sou
-        estudante na Trybe | XP inc.
-        <br />
-        <br />
-        No momento, estou mais envolvido em desenvolvimento Front-end,
-        programando usando ferramentas do universo de ReactJS.
-        <br />
-        <br />
-        Fun fact? Provavelmente o único dev do planeta que não gosta de café. :(
-        kkk
+        <h4>
+          Desenvolvedor Full stack em processo de criação. Atualmente sou
+          estudante na Trybe | XP inc.
+        </h4>
+        <h4>
+          No momento, estou mais envolvido em desenvolvimento Front-end,
+          programando usando ferramentas do universo de ReactJS.
+        </h4>
+        <h4>
+          Fun fact? Provavelmente o único dev do planeta que não gosta de café.
+          :( kkk
+        </h4>
       </article>
       <article className='max-w-xl pl-4 text-justify text-md'>
         <h3>Skills:</h3>
