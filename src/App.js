@@ -2,6 +2,7 @@ import "./index.css";
 import Header from "./components/Header";
 import AboutMe from "./pages/AboutMe";
 import Skills from "./pages/Skills";
+import Experience from "./pages/Experience";
 
 export default function App() {
   return (
@@ -10,6 +11,10 @@ export default function App() {
       <div className="h-screen bg-fixed bg-cover bg-[url('./images/background-placeholder.webp')]" />
       <AboutMe />
       <Skills />
+      <Experience />
+      <br />
+      <br />
+      <br />
       <br />
       <h3> em construção ....</h3>
     </div>

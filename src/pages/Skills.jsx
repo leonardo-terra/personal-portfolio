@@ -6,14 +6,15 @@ export default function Skills() {
       <article className='max-w-md pr-4 text-justify text-md'>
         <h3>Sobre mim:</h3>
         Desenvolvedor Full stack em processo de criação. Atualmente sou
-        estudante na Trybe, turma XP inc.
+        estudante na Trybe | XP inc.
+        <br />
         <br />
         No momento, estou mais envolvido em desenvolvimento Front-end,
         programando usando ferramentas do universo de ReactJS.
         <br />
-        Fun fact? Provavelmente o único dev do planeta que não gosta de café.
         <br />
-        :( kkk
+        Fun fact? Provavelmente o único dev do planeta que não gosta de café. :(
+        kkk
       </article>
       <article className='max-w-xl pl-4 text-justify text-md'>
         <h3>Skills:</h3>
