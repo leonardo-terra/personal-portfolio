@@ -18,28 +18,36 @@ export default function Skills() {
       <article className='max-w-xl pl-4 text-justify text-md'>
         <h3>Skills:</h3>
         <Accordion defaultActiveKey='0' className='w-[600px]'>
-          <Accordion.Item eventKey='0'>
+          <Accordion.Item eventKey='1'>
             <Accordion.Header>Front-end</Accordion.Header>
             <Accordion.Body>
               <ListGroup>
-                <ListGroup.Item>Cras justo odio</ListGroup.Item>
-                <ListGroup.Item>Dapibus ac facilisis in</ListGroup.Item>
-                <ListGroup.Item>Morbi leo risus</ListGroup.Item>
-                <ListGroup.Item>Porta ac consectetur ac</ListGroup.Item>
-                <ListGroup.Item>Vestibulum at eros</ListGroup.Item>
+                <ListGroup.Item>HTML5</ListGroup.Item>
+                <ListGroup.Item>CSS3</ListGroup.Item>
+                <ListGroup.Item>Javascript</ListGroup.Item>
+                <ListGroup.Item>React</ListGroup.Item>
+                <ListGroup.Item>Redux</ListGroup.Item>
+                <ListGroup.Item>Single Page Applications (SPA)</ListGroup.Item>
+                <ListGroup.Item>Bootstrap</ListGroup.Item>
+                <ListGroup.Item>Tailwind</ListGroup.Item>
+                <ListGroup.Item>Jest</ListGroup.Item>
               </ListGroup>
             </Accordion.Body>
           </Accordion.Item>
-          <Accordion.Item eventKey='1'>
-            <Accordion.Header>Accordion Item #2</Accordion.Header>
+          <Accordion.Item eventKey='2'>
+            <Accordion.Header>Idiomas</Accordion.Header>
             <Accordion.Body>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
+              <ListGroup.Item>Português Nativo</ListGroup.Item>
+              <ListGroup.Item>Inglês Fluente</ListGroup.Item>
+            </Accordion.Body>
+          </Accordion.Item>
+          <Accordion.Item eventKey='3'>
+            <Accordion.Header>Outras habilidades</Accordion.Header>
+            <Accordion.Body>
+              <ListGroup.Item>
+                Desenvolvimento Agile: SCRUM e Kanban
+              </ListGroup.Item>
+              <ListGroup.Item>Docker</ListGroup.Item>
             </Accordion.Body>
           </Accordion.Item>
         </Accordion>
