@@ -4,7 +4,8 @@ import AboutMe from "./pages/AboutMe";
 import Skills from "./pages/Skills";
 import Experience from "./pages/Experience";
 import Portfolio from "./pages/Portfolio";
-import Contactme from "./pages/Contactme";
+/* import Contactme from "./pages/Contactme"; */
+import Contacts from "./pages/Contacts";
 
 export default function App() {
   return (
@@ -15,7 +16,7 @@ export default function App() {
       <Skills />
       <Experience />
       <Portfolio />
-
+      <Contacts />
       <br />
       <br />
       <br />
