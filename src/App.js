@@ -9,7 +9,7 @@ import Contacts from "./pages/Contacts";
 
 export default function App() {
   return (
-    <div className=''>
+    <div className='font-serif'>
       <Header />
       <div className="h-screen bg-fixed bg-cover bg-[url('./images/background-placeholder.webp')]" />
       <AboutMe />

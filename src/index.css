@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  font-family: "Hubballi", cursive;
+}
 /* .image-container {
   background-image: url(./images/background-placeholder.webp);
   background-attachment: fixed;
