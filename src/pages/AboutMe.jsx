@@ -3,7 +3,7 @@ import profileImage from "../images/leonardo.jpeg";
 export default function AboutMe() {
   return (
     <section className='container mx-auto'>
-      <h2 className='p-3 font-bold tracking-wider text-center text-sky-200 '>
+      <h2 className='p-3 font-bold tracking-wider text-center text-sky-400 '>
         About me
       </h2>
       <h3 className='mb-8 font-medium text-center'>
