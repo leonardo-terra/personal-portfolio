@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import AboutMe from "./pages/AboutMe";
 import Skills from "./pages/Skills";
 import Experience from "./pages/Experience";
+import Portfolio from "./pages/Portfolio";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
       <AboutMe />
       <Skills />
       <Experience />
+      <Portfolio />
       <br />
       <br />
       <br />
