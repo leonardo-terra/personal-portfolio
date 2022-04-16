@@ -15,7 +15,7 @@ export default function App() {
       <Skills />
       <Experience />
       <Portfolio />
-      <Contactme />
+
       <br />
       <br />
       <br />
