@@ -1,6 +1,6 @@
 export default function Experience() {
   return (
-    <div className='pt-5 pb-5 mt-10 bg-gray-200'>
+    <section className='pt-5 pb-5 mt-10 bg-gray-200'>
       <article className='container mx-auto'>
         <h2 className='p-3 font-bold tracking-wider text-center text-sky-400 '>
           Experiencia Profissional
@@ -53,6 +53,6 @@ export default function Experience() {
           </ul>
         </div>
       </article>
-    </div>
+    </section>
   );
 }
