@@ -2,7 +2,7 @@ import { Navbar, Container, Nav } from "react-bootstrap";
 
 export default function Header() {
   return (
-    <nav className='fixed w-full'>
+    <nav className='fixed z-50 w-full'>
       <Navbar bg='dark' variant='dark'>
         <Container>
           <Navbar.Brand href='#home'>Navbar</Navbar.Brand>

@@ -18,7 +18,7 @@ export default function Skills() {
       </article>
       <article className='max-w-xl pl-4 text-justify text-md'>
         <h3>Skills:</h3>
-        <Accordion defaultActiveKey='0' className='w-[600px]'>
+        <Accordion defaultActiveKey='0' className='w-[600px] z-0'>
           <Accordion.Item eventKey='1'>
             <Accordion.Header>Front-end</Accordion.Header>
             <Accordion.Body>
