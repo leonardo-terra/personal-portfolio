@@ -30,7 +30,7 @@ export default function Contacts() {
                 target='_blank'
                 rel='noreferrer'
               >
-                <h6 className='inline-block ml-1 font-normal'>LinkedIn</h6>
+                <h6 className='inline-block ml-1 text-lg'>LinkedIn</h6>
               </a>
             </div>
 
@@ -41,7 +41,7 @@ export default function Contacts() {
                 target='_blank'
                 rel='noreferrer'
               >
-                <h6 className='inline-block ml-1 font-normal'>GitHub</h6>
+                <h6 className='inline-block ml-1 text-lg'>GitHub</h6>
               </a>
             </div>
           </div>

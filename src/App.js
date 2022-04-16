@@ -17,11 +17,6 @@ export default function App() {
       <Experience />
       <Portfolio />
       <Contacts />
-      <br />
-      <br />
-      <br />
-      <br />
-      <h3> em construção ....</h3>
     </div>
   );
 }
