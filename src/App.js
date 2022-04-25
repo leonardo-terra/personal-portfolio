@@ -11,7 +11,9 @@ export default function App() {
   return (
     <div className='font-serif'>
       <Header />
-      <div className="h-screen bg-fixed bg-cover bg-[url('./images/background-placeholder.webp')]" />
+      <div className="h-screen bg-fixed bg-cover bg-[url('./images/background-placeholder.webp')]">
+        <h2 className='p-20'>under construction</h2>
+      </div>
       <AboutMe />
       <Skills />
       <Experience />
